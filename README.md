@@ -12,9 +12,7 @@ pedi para o chatgpt fazer uma varredura sobre os melhores artigos sobre musculaÃ
 ## ðŸš€ Resultados
 IA me suspreendeu com a resposta e as perguntas que fiz a ela.
 
-
-### Exemplos e Insigths
-
+LINK DO E-BOOK
 - [E-BOOK](/exemplos/E-BOOK.md)
 
 
